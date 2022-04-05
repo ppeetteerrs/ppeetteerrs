@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=ppeetteerrs&color=blueviolet)
 ![](https://hit.yhype.me/github/profile?user_id=8547778)
 
 <!--
